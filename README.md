@@ -12,7 +12,7 @@ For this to achieve you must install two pluging **GitHub** and **Git**.
 To achieve this Go to **Manage Jenkins > System** then GitHub Servers and do the configuration as shown in the screenshot attached below.
 
 ![image](https://github.com/user-attachments/assets/dc9b4e6b-b006-4dec-b11d-24ac054c7df2)
-![image](https://github.com/user-attachments/assets/91ed169c-288d-4afc-84fb-3699edfee6ed)
+![image](https://github.com/user-attachments/assets/2b77b623-37c9-4f64-bd41-0b15ba764b02)
 
 Go to User's **Setting > SSH and GPG Keys** and provide SSH Public Key here as shown in the screenshot attached below.
 
