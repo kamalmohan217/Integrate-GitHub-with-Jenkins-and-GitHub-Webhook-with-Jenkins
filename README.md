@@ -21,5 +21,5 @@ Go to User's **Setting > SSH and GPG Keys** and provide SSH Public Key here as s
 
 Create credential with the Option SSH Username with private key as shown in the screenshot attached below.
 
-![image](https://github.com/user-attachments/assets/18f4be97-6302-4cf5-bf56-bb865bcd6fad)
+![image](https://github.com/user-attachments/assets/705c5810-d620-4f11-b4b1-5d904ecbb0c8)
 ![image](https://github.com/user-attachments/assets/73855d11-82aa-4b7c-9b64-900b3e09fe40)
